@@ -1,0 +1,5 @@
+discord.py
+requests
+beautifulsoup4
+imapclient
+email-validator
